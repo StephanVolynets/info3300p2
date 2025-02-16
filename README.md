@@ -10,6 +10,7 @@
 ## Overview
 
 This project visualizes global life expectancy and population trends from 1960 to 2022. The interactive web application allows users to explore how these two key metrics have evolved over six decades for different countries. By combining multiple datasets and employing advanced data processing techniques, the visualization offers a comprehensive look at global health and demographic changes.
+![Xnip2025-02-16_17-21-25](https://github.com/user-attachments/assets/35a23947-c10b-46d3-8684-2a44a82aba4e)
 
 ---
 
