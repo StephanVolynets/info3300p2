@@ -1,6 +1,6 @@
 # Global Health & Demographic Trends Visualization
 
-**INFO 3300 – Project 2**  
+**CS 3300 – Project 2**  
 **Team:** Fedinard Nyanyo (fen7), Justin Wong (jsw345), Merry Zebro (mz289),  Stephan Volynets (svv6) 
 **Cornell University**  
 **Project Duration:** October 2024 – November 2024
